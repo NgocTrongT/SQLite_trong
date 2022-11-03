@@ -1,4 +1,4 @@
-package com.example.computermanagement_324;
+package com.example.computermanagement_348;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -12,8 +12,6 @@ import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
 
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
 import java.util.List;
 
 public class DetailActivity extends AppCompatActivity implements View.OnClickListener{
