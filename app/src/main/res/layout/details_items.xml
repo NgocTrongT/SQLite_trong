@@ -3,7 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:background="#30648C"
+    android:background="#B7F7E0"
     android:layout_height="match_parent"
     android:orientation="vertical"
 
@@ -15,7 +15,7 @@
         android:text="Information Computer"
         android:textSize="25dp"
         android:textStyle="bold"
-        android:textColor="@color/white"
+        android:textColor="@color/black"
         android:fontFamily="serif"
         android:layout_marginTop="30dp"
         android:layout_marginBottom="30dp"
@@ -30,7 +30,7 @@
         android:text="ID:"
         android:textSize="25dp"
         android:fontFamily="serif"
-        android:textColor="@color/white"
+        android:textColor="@color/black"
         android:layout_marginStart="20dp"
         android:layout_marginLeft="20dp"
         tools:layout_editor_absoluteX="102dp"
@@ -43,7 +43,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp"
-        android:textColor="@color/white"
+        android:textColor="@color/black"
         android:textColorHint="#F4F4F4"
         android:textSize="20dp" />
     <TextView
@@ -51,7 +51,7 @@
         android:layout_marginStart="20dp"
         android:layout_marginLeft="20dp"
         android:layout_marginTop="20dp"
-        android:textColor="@color/white"
+        android:textColor="@color/black"
         android:fontFamily="serif"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -64,7 +64,7 @@
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp"
         android:singleLine="false"
-        android:textColor="@color/white"
+        android:textColor="@color/black"
         android:textColorHint="@color/white"
         android:textCursorDrawable="@color/white"
         android:textSize="20dp" />
@@ -75,7 +75,7 @@
         android:fontFamily="serif"
         android:layout_marginLeft="20dp"
         android:layout_marginTop="20dp"
-        android:textColor="@color/white"
+        android:textColor="@color/black"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Thể loại" />
@@ -89,7 +89,7 @@
         android:layout_marginRight="20dp"
         android:spinnerMode="dropdown"
         android:background="@drawable/blue_spinner"
-        android:textColor="@color/white"
+        android:textColor="@color/black"
         android:textSize="20dp" />
 
     <LinearLayout
@@ -118,7 +118,7 @@
             android:layout_weight="1"
             android:background="@drawable/cycle_item_view"
             android:text="Back"
-            app:backgroundTint="#201F1F"
+            app:backgroundTint="#F5B13D"
             app:iconTint="#454545" />
     </LinearLayout>
 </LinearLayout>
